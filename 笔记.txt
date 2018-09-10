@@ -1,4 +1,4 @@
-1,设置angular npm的淘宝镜像
+﻿1,设置angular npm的淘宝镜像
 
 npm config set registry https://registry.npm.taobao.org
 
@@ -27,5 +27,5 @@ http://localhost:4200/
 
 
 
-
+https://www.jb51.net/article/94934.htm
 
